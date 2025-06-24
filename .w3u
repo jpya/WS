@@ -25,11 +25,12 @@
     
   },
  {
-    "name": "DIRECTV | AR 🇦🇷",
+    "name": "EL TRECE | AR 🇦🇷",
     "info": "[Online]",
     "online": "true",
     "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://miztv.top/total/stream-25.php",
+    "url": "https://tvlibreonline.org/html/hls.html?get=aHR0cHM6Ly9saXZlLTAxLTAyLWVsdHJlY2Uudm9kZ2MubmV0L2VsdHJlY2V0di9pbmRleC5tM3U4
+",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
      "isHost": "true"
     
