@@ -14,11 +14,12 @@
 
 
   {
-    "name": "GOL PERU | AR 🇦🇷",
+    "name": "TELEFE | AR 🇦🇷",
     "info": "[Online]",
     "online": "true",
     "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://deporte-libre.link/en-vivo-online/telecinco/embed.php",
+    "url": "https://tvlibreonline.org/html/dash.html?get=aHR0cHM6Ly90ZWxlZmV2aWFjb20xLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNzk4Ny92aWFjb21JTlQvVE9LL21hc3Rlci13aWxkMS5tM3U4
+",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
      "isHost": "true"
     
