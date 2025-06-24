@@ -12,55 +12,21 @@
 "stations":[
 
   {
-    "name": "Futbol Libre TV | AR 🇦🇷",
+    "name": "gol peru 🇦🇷",
     "info": "[Online]",
     "online": "true",
     "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://tufutbollibre.com/agenda.html?v=1749905954927",
+    "url": "https://deportes.ksdjugfsddeports.fun/mihdtv.php?stream=2_",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "playInNatPlayer": "true",
+    "isHost": "true"
     "embed": "true"
   },
-  {
-    "name": "Libre Futbol TV | AR 🇦🇷",
-    "info": "[Online]",
-    "online": "true",
-    "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://librefutboltv.su/agenda/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "playInNatPlayer": "true",
-    "embed": "true"
-  },
-  {
-    "name": "La14HD | AR 🇦🇷",
-    "info": "[Online]",
-    "online": "true",
-    "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://la14hd.com/eventos/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "playInNatPlayer": "true",
-    "embed": "true"
-  },
-  {
-    "name": "Streamdp | AR 🇦🇷",
-    "info": "[Online]",
-    "online": "true",
-    "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://streamdp1.xyz/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "playInNatPlayer": "true",
-    "embed": "true"
-  },
-  {
-    "name": "Tu Canal Deportivo | AR 🇦🇷",
-    "info": "[Online]",
-    "online": "true",
-    "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://elcanaldeportivo.com/agenda.php",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "playInNatPlayer": "true",
-    "embed": "true"
-  },
+
+
+
+
+
+ 
 
 ]},
 {"name": "DEPORTES",
