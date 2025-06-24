@@ -1,8 +1,8 @@
 
 
 {	
-"name": "JUAMPY TV",
-"author": "📺El Mejor contenido!📺",
+"name": "TV GRATIS 2025",
+"author": "📺Lista Gratuita📺",
 "image": "https://i.pinimg.com/originals/5d/ea/a7/5deaa7bbf3cba51ed0f8b628c80393fc.gif",
 "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
@@ -12,21 +12,55 @@
 "stations":[
 
   {
-    "name": "gol peru 🇦🇷",
+    "name": "Futbol Libre TV | AR 🇦🇷",
     "info": "[Online]",
     "online": "true",
     "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://deportes.ksdjugfsddeports.fun/mihdtv.php?stream=2_",
+    "url": "https://tufutbollibre.com/agenda.html?v=1749905954927",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "isHost": "true"
+    "playInNatPlayer": "true",
     "embed": "true"
   },
-
-
-
-
-
- 
+  {
+    "name": "Libre Futbol TV | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://librefutboltv.su/agenda/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "La14HD | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://la14hd.com/eventos/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "Streamdp | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://streamdp1.xyz/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "Tu Canal Deportivo | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://elcanaldeportivo.com/agenda.php",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
 
 ]},
 {"name": "DEPORTES",
@@ -274,6 +308,9 @@
     "embed": "true"
   },
 
+
+
+
    {
     "name": "TyC Sports 720 | AR 🇦🇷",
     "info": "[Tutvlive]",
@@ -327,6 +364,89 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
+  {
+    "name": "TyC Sports Play 1 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 2 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 3 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 4 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 5 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 6 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 7 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 8 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 9 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 10 | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+
+
+
   {
     "name": "DirecTv Sports 720p | AR 🇦🇷",
     "info": "[104]",
@@ -987,68 +1107,6 @@
     "isHost": "true"
   },
   {
-    "name": "ESPN Deportes 720 | US 🇺🇸",
-    "info": "[190]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
-    "userAgent": ""
-  },
-  {
-    "name": "ESPN Deportes 720 | US 🇺🇸",
-    "info": "[Abbasport]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://abbasport.site/",
-    "url": "https://abbasport.site/espndeportes.php",
-    "isHost": "true"
-  },
-  {
-    "name": "ESPN Deportes 720 | US 🇺🇸",
-    "info": "[Miztv]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "https://miztv.top/stream/stream-375.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "ESPN Deportes 720 | US 🇺🇸",
-    "info": "[Topembed]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://topembed.pw/",
-    "url": "https://topembed.pw/channel/ESPNDeportes[USA]",
-    "isHost": "true"
-  },
-  {
-    "name": "ESPN Deportes 720 | US 🇺🇸",
-    "info": "[Tutvlive]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "ESPN Deportes | US 🇺🇸",
-   "info": "[Cdnew]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
-    "userAgent": ""
-  },
-  {
-    "name": "ESPN Deportes | US 🇺🇸",
-    "info": "[Fuelcaller]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://tarjetarojaenvivo.lat/",
-    "url": "https://fuelcareer.net/embed/lf445b",
-    "isHost": "true"
-  },
-  {
     "name": "Bein Sports Ñ (Zekonew) | US 🇺🇸",
     "image": "https://i.imgur.com/c4gfwhr.png",
     "url": "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
@@ -1180,6 +1238,70 @@
     "online": "true",
     "isHost": "true"
   },
+
+  {
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[190]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Abbasport]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://abbasport.site/",
+    "url": "https://abbasport.site/espndeportes.php",
+    "isHost": "true"
+  },
+  {
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "https://miztv.top/stream/stream-375.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Topembed]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/ESPNDeportes[USA]",
+    "isHost": "true"
+  },
+  {
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ESPN Deportes | MX 🇲🇽",
+   "info": "[Cdnew]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "ESPN Deportes | MX 🇲🇽",
+    "info": "[Fuelcaller]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://tarjetarojaenvivo.lat/",
+    "url": "https://fuelcareer.net/embed/lf445b",
+    "isHost": "true"
+  },
+ 
   {
     "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
     "image": "https://i.imgur.com/3PsaCB9.png",
@@ -1233,76 +1355,6 @@
     "isHost": "true"
   },
   {
-    "name": "TyC Sports Play 1 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 2 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 3 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 4 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 5 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 6 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 7 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 8 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 9 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  }, 
-  {
-    "name": "TyC Sports Play 10 | AR 🇦🇷",
-    "online": "true",
-    "image": "https://i.imgur.com/UOuJb87.png",
-    "url": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
     "name": "Teledeporte | ES 🇪🇸",
     "image": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
     "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
@@ -1315,78 +1367,72 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "Liga de Campeones | 🇪🇸",
-    "info": "[Acestream 370]",
+    "name": "Liga de Campeones [ES]",
+    "info": "[370]",
     "online": "true",
-    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
   },
   {
-    "name": "Movistar La Liga | 🇪🇸",
-    "info": "[Acestream 947]",
+    "name": "Movistar La Liga [ES]",
+    "info": "[947]",
     "online": "true",
-    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
   },
   {
-    "name": "Gol Play | 🇪🇸",
-    "info": "[Acestream a3a]",
+    "name": "Gol Play [ES]",
+    "info": "[a3a]",
     "online": "true",
-    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
   },
   {
-    "name": "Cuatro | 🇪🇸",
-    "info": "[Acestream 333]",
+    "name": "Cuatro [ES]",
+    "info": "[333]",
     "online": "true",
-    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
   },
   {
-  "name": "Cuatro | 🇪🇸",
-  "info": "[Acestream a91]",
+  "name": "Cuatro [ES]",
+  "info": "[a91]",
   "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91" 
   }, 
   { 
-  "name": "Telecinco | 🇪🇸",
-  "info": "[Acestream 6f5]",
+  "name": "Telecinco [ES]", 
+  "info": "[6f5]",
   "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" 
   },
   { 
-  "name": "Telecinco | 🇪🇸",
-  "info": "[Acestream 75b]",
+  "name": "Telecinco [ES]", 
+  "info": "[75b]",
   "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b" 
   }, 
   { 
-  "name": "Telecinco | 🇪🇸",
-  "info": "[Acestream 7bf]",
+  "name": "Telecinco [ES]", 
+  "info": "[7bf]",
   "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
   }, { 
-  "name": "UFC Fight Pass | 🇪🇸",
-  "info": "[Acestream 139]",
+  "name": "UFC Fight Pass [ES]", 
+  "info": "[139]",
   "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139" 
   }, { 
-  "name": "PPV Eventos UFC | 🇪🇸",
-  "info": "[Acestream 3ff]",
+  "name": "PPV Eventos UFC [ES]", 
+  "info": "[3ff]",
   "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff" 
-  }, { 
-  "name": "Teledeporte | 🇪🇸",
-  "info": "[Acestream 230]",
-  "online": "true",
-  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
-  "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230" 
   }, 
 			
 			
