@@ -19,6 +19,16 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
           "playInNatPlayer": true,
           "embed": true
+        },
+{
+          "name": "FLOW ARGENTINA| AR 🇦🇷",
+          "info": "[Online]",
+          "online": true,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1280px-Flow_logo_2021.svg.png",
+          "url": "https://tvapp-2-juampy20.replit.app/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+          "playInNatPlayer": true,
+          "embed": true
         }
 
  
