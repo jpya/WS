@@ -780,16 +780,411 @@
 
 {
       "name": "TELE MUNDIAL",
-      "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/169/055/non_2x/global-tv-logo-design-concept-world-television-icon-design-vector.jpg",
       "stations": [
+
   {
-          "name": "ZONA LATINA",
-          "info": "[Streamdp]",
-          "online": true,
-          "image": "https://i.imgur.com/UOuJb87.png",
-          "url": "https://bigboss.bemtv.cn/STREAM/334/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        },
+    "name": "A24",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/a24.jpg",
+    "url": "https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal Rural",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/canal_rural_ar.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/11053/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TV Publica HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/tv_publica_ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/11042/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "26TV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/canal_26_ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/11055/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "C5N",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/c5n.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/7699/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "America HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/america_ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/6564/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Todo Noticias HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/todo_noticias.png",
+    "url": "https://otakon.bemtv.cn/STREAM/6589/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "El Trece HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/el_trece_internacional.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6563/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telefe HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/telefe_internacional_ar.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6562/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telefe Internacional",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/telefe_internacional_ar.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1001/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "CronicaTV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/cronica_tv.png",
+    "url": "https://otakon.bemtv.cn/STREAM/7717/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Encuentro",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/encuentro_ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/7767/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "DeporTV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/deportv-ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/11046/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "America HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/america_ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/6564/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Todo Noticias HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/todo_noticias.png",
+    "url": "https://otakon.bemtv.cn/STREAM/6589/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "El Trece HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/el_trece_internacional.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6563/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telefe HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/telefe_internacional_ar.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6562/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telefe Internacional",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/telefe_internacional_ar.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1001/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "CronicaTV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/cronica_tv.png",
+    "url": "https://otakon.bemtv.cn/STREAM/7717/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Encuentro",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/encuentro_ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/7767/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "DeporTV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/deportv-ar.png",
+    "url": "https://otakon.bemtv.cn/STREAM/11046/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "La Tele PY",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/la_tele_py.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13087/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "C9N",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/c9n.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13086/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Paraguay TV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/paraguaytv.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13082/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Paravision",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/paravision.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13085/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "NPY Noticias",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/npy.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13084/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Sur TV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/sur_tv_py.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13083/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "SNT",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/snt_py.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13077/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "RPC PY",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/rpc_py.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13078/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ABE TV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/tvubo.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8119/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telefuturo",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/telefuturo_py.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13076/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ATB",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/atb_bo.jpg",
+    "url": "https://metalgear.bemtv.cn/STREAM/900/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Bolivia TV",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/bolivia_tv_bo.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8117/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Cadena A",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "",
+    "url": "https://metalgear.bemtv.cn/STREAM/23264/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Ceacom",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "",
+    "url": "https://bigboss.bemtv.cn/STREAM/23265/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Deporte Total",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "",
+    "url": "https://bigboss.bemtv.cn/STREAM/23266/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "IVC HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/ivc_ve.png",
+    "url": "https://otakon.bemtv.cn/STREAM/16446/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Marvision",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "",
+    "url": "https://bigboss.bemtv.cn/STREAM/23269/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Red Advenir",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "",
+    "url": "https://otakon.bemtv.cn/STREAM/23270/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TV Culturas",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/tv_culturas_1.jpg",
+    "url": "https://otakon.bemtv.cn/STREAM/8124/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TV OFF Travel",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/off_travel.jpg",
+    "url": "https://metalgear.bemtv.cn/STREAM/8129/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Unitel",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/unite.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8121/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Meridiano",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/meridiano_tv_ve.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/1656/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Televen",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/televen_ve.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1654/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Ve Plus HD",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/veplus-ve.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22282/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Venevision",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/venevision_tv_ve.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/1004/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal Caribe",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://logo.com/logo.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22975/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal Habana",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://logo.com/logo.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22977/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Cubavision",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/Cubavision.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8113/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Multivision",
+    "info": "[Streamdp]",
+    "online": true,
+    "image": "http://meta.nordvpn.best/multivisin.jpg",
+    "url": "https://otakon.bemtv.cn/STREAM/8127/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }
+
+ 
 ]
 
     }
