@@ -3756,7 +3756,451 @@
     "url": "https://bigboss.bemtv.cn/STREAM/1658/playlist.m3u8",
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": true
+  },
+
+
+  {
+    "name": "Epoca",
+    "image": "http://meta.nordvpn.best/epoca-telefonica.jpg",
+    "url": "https://otakon.bemtv.cn/STREAM/1021/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Teleamazonas",
+    "image": "http://meta.nordvpn.best/teleamazonas.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/912/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "EcuadorTV",
+    "image": "http://meta.nordvpn.best/ecuador_tv_internacional.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/905/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TC Televisión",
+    "image": "http://meta.nordvpn.best/tc_ec.png",
+    "url": "https://otakon.bemtv.cn/STREAM/901/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "GamaTV",
+    "image": "http://meta.nordvpn.best/gama_tv.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/719/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "RTS HD",
+    "image": "http://meta.nordvpn.best/red_tele_sistema.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/7504/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "RTS",
+    "image": "http://meta.nordvpn.best/red_tele_sistema.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1655/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Ecuavisa HD",
+    "image": "http://meta.nordvpn.best/ecuavisa_guayaquil.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/11613/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Ecuavisa",
+    "image": "http://meta.nordvpn.best/ecuavisa_guayaquil.png",
+    "url": "https://otakon.bemtv.cn/STREAM/904/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "RTU",
+    "image": "http://meta.nordvpn.best/rtu_ec.jpg",
+    "url": "https://metalgear.bemtv.cn/STREAM/6862/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Televicentro",
+    "image": "http://meta.nordvpn.best/televicentro.jpg",
+    "url": "https://metalgear.bemtv.cn/STREAM/6861/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "AMC HD East",
+    "image": "http://meta.nordvpn.best/amc_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/928/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CBS HD East",
+    "image": "http://meta.nordvpn.best/wcbs_cbs2_new_york.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/925/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CNBC HD US",
+    "image": "http://meta.nordvpn.best/cnbc_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/14579/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CNN US",
+    "image": "http://meta.nordvpn.best/cnn_usa.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/12246/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CBS News",
+    "image": "http://meta.nordvpn.best/cbsnews.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1233/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Discovery HD",
+    "image": "http://meta.nordvpn.best/discovery_us_west.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/14500/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Disney US",
+    "image": "http://meta.nordvpn.best/disney_channel_global.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/15956/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN East",
+    "image": "http://meta.nordvpn.best/espn_tv_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/916/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN SEC Network",
+    "image": "http://meta.nordvpn.best/espn_sec_network_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/14576/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Food Network US",
+    "image": "http://meta.nordvpn.best/food_network_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/13089/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "FOX35 HD East",
+    "image": "http://meta.nordvpn.best/wofl_fox35_orlando.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/577/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Sports 1 US",
+    "image": "http://meta.nordvpn.best/fox_sports_global.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/932/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Hallmark Channel",
+    "image": "http://meta.nordvpn.best/hallmark_channel_east.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/14587/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Hallmark Movies",
+    "image": "http://meta.nordvpn.best/hallmark_movies_mysteries_east.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/9220/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "HGTV",
+    "image": "http://meta.nordvpn.best/hgtv_us.png",
+    "url": "https://otakon.bemtv.cn/STREAM/14583/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "History Channel",
+    "image": "http://meta.nordvpn.best/history_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/16083/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "NBC HD East",
+    "image": "http://meta.nordvpn.best/wesh_nbc2_daytona_beach.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/502/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "NFL Network",
+    "image": "http://meta.nordvpn.best/nfl_network_us.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/22357/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "NFL Red Zone",
+    "image": "http://meta.nordvpn.best/nfl_red_zone.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/16557/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TLC East",
+    "image": "http://meta.nordvpn.best/tlc_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/14585/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "NBC Universo HD",
+    "image": "http://meta.nordvpn.best/nbc_universo_us.png",
+    "url": "https://otakon.bemtv.cn/STREAM/13091/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Distrito Comedia",
+    "image": "http://meta.nordvpn.best/distrito_comedia_mx.png",
+    "url": "https://otakon.bemtv.cn/STREAM/2225/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Comedy Central HD",
+    "image": "http://meta.nordvpn.best/comedy_central_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/586/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Novelas",
+    "image": "http://meta.nordvpn.best/tbs_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/13073/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT HD",
+    "image": "http://meta.nordvpn.best/tnthd.jpeg",
+    "url": "https://bigboss.bemtv.cn/STREAM/584/playlist.m3u8",
+    "userAgent": "Mozilla/5.5 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Series HD",
+    "image": "http://meta.nordvpn.best/tnt_series_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/587/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "USA HD",
+    "image": "http://meta.nordvpn.best/usa_network_east.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6809/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "USA",
+    "image": "http://meta.nordvpn.best/usa_network_east.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/379/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "AMC HD",
+    "image": "http://meta.nordvpn.best/amc_us.png",
+    "url": "https://otakon.bemtv.cn/STREAM/16141/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "AMC",
+    "image": "http://meta.nordvpn.best/amc_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/416/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Star Channel HD (ARG)",
+    "image": "http://meta.nordvpn.best/starchannel.png",
+    "url": "https://otakon.bemtv.cn/STREAM/9556/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Star Channel HD (COL)",
+    "image": "http://meta.nordvpn.best/starchannel.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22606/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "AXN HD",
+    "image": "http://meta.nordvpn.best/axn_global.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/465/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "AXN",
+    "image": "http://meta.nordvpn.best/axn_global.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/362/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "A&E HD",
+    "image": "http://meta.nordvpn.best/ae_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/452/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "A&E",
+    "image": "http://meta.nordvpn.best/ae_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/440/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Adult Swim",
+    "image": "http://meta.nordvpn.best/tru_tv_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/519/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Warner HD",
+    "image": "http://meta.nordvpn.best/warner_channel_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/450/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Warner (Andino)",
+    "image": "http://meta.nordvpn.best/warner_channel_us.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/22846/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "The Simpsons",
+    "image": "http://meta.nordvpn.best/simpson132x99.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8251/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "The Simpsons Classic",
+    "image": "http://meta.nordvpn.best/simpson132x99.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8876/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "A3 Series HD - ES",
+    "image": "http://meta.nordvpn.best/antena3_series_es.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/7663/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Star TVE HD - ES",
+    "image": "http://meta.nordvpn.best/Star-TVE-logo.png",
+    "url": "https://otakon.bemtv.cn/STREAM/16034/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Antena 3 HD",
+    "image": "http://meta.nordvpn.best/antena3_int.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22602/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Galicia TV - ES",
+    "image": "http://meta.nordvpn.best/galicia_tv_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/22847/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TVE HD",
+    "image": "http://meta.nordvpn.best/tve_internacional_mx.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22603/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Estrella TV",
+    "image": "http://meta.nordvpn.best/estrellatv.png",
+    "url": "https://otakon.bemtv.cn/STREAM/6675/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Film & Arts HD",
+    "image": "http://meta.nordvpn.best/film_and_arts_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/13065/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Film & Arts",
+    "image": "http://meta.nordvpn.best/film_and_arts_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6644/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Europa Europa HD",
+    "image": "http://meta.nordvpn.best/europa_europa.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/2366/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Eurochannel",
+    "image": "http://meta.nordvpn.best/eurochannel_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/2367/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Sun Channel",
+    "image": "http://meta.nordvpn.best/sun_channel_tourism_tv.png",
+    "url": "https://otakon.bemtv.cn/STREAM/7779/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
   }
+
 
 
 
