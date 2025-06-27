@@ -2752,7 +2752,653 @@
     "url": "https://bigboss.bemtv.cn/STREAM/22637/playlist.m3u8",
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": true
+  },
+
+  {
+    "name": "Sky Sports 16 HD",
+    "image": "http://meta.nordvpn.best/skysportsmx.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Sky Sports 21",
+    "image": "http://meta.nordvpn.best/skysportsmx.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/22638/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Sky Sports 24 HD",
+    "image": "http://meta.nordvpn.best/skysportsmx.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8468/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "FuTV +HD",
+    "image": "http://meta.nordvpn.best/futv.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/22556/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TD+ HD",
+    "image": "http://meta.nordvpn.best/tdmas.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/8110/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TD+ 2 HD",
+    "image": "http://meta.nordvpn.best/tdmas2.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/11178/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Cable Onda Sports HD",
+    "image": "http://meta.nordvpn.best/cable_onda_sports_pa_1.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8671/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Cable Onda Sports FC HD",
+    "image": "http://meta.nordvpn.best/cos2.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8711/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Ser TV Deportes",
+    "image": "http://meta.nordvpn.best/ser_tv_pa.png",
+    "url": "https://otakon.bemtv.cn/STREAM/23627/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "SportMax 1 HD",
+    "image": "http://meta.nordvpn.best/sportsmax-jm.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22392/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "SportMax 2 HD",
+    "image": "http://meta.nordvpn.best/sportsmax-jm.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22393/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CDN SportsMax",
+    "image": "http://meta.nordvpn.best/cdn_sports_max_do.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1734/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Movistar - La Liga HD",
+    "image": "http://meta.nordvpn.best/movistar-la-liga.png",
+    "url": "https://otakon.bemtv.cn/STREAM/458/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Bein Sports USA",
+    "image": "http://meta.nordvpn.best/be_in_sports_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1716/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Bein Sports Ñ",
+    "image": "http://meta.nordvpn.best/be_in_sports_espanol.png",
+    "url": "https://otakon.bemtv.cn/STREAM/13039/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Bein Sports XTRA Ñ",
+    "image": "https://meta.nordvpn.best/bein-xtra.png",
+    "url": "https://otakon.bemtv.cn/STREAM/23072/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Gol Peru HD",
+    "image": "http://meta.nordvpn.best/WuMd_CEo.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/7669/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Gol Peru",
+    "image": "http://meta.nordvpn.best/WuMd_CEo.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/22867/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Movistar Deportes - PE",
+    "image": "https://meta.nordvpn.best/movistar-deportes.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/7668/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Liga 1 MAX HD",
+    "image": "https://meta.nordvpn.best/liga1-max.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22989/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Liga 1 HD",
+    "image": "https://meta.nordvpn.best/liga1-peru.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22991/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Golf Channel",
+    "image": "http://meta.nordvpn.best/golf_channel_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1007/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Win Sports+ HD",
+    "image": "https://meta.nordvpn.best/win-sportplusco.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Win Sports HD",
+    "image": "https://meta.nordvpn.best/win-sportco.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "VTV HD",
+    "image": "http://meta.nordvpn.best/vtv_uy.png",
+    "url": "https://otakon.bemtv.cn/STREAM/11531/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "VTV Plus",
+    "image": "https://meta.nordvpn.best/Vtv-plus.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/23397/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Claro Sports HD",
+    "image": "http://meta.nordvpn.best/claro_sports_mx.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8515/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Claro Sports 2",
+    "image": "http://meta.nordvpn.best/claro_sports_mx.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/22868/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CDO Basico",
+    "image": "http://meta.nordvpn.best/cdo_cl_basico.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/1018/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "CDO Premium",
+    "image": "https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png",
+    "url": "https://otakon.bemtv.cn/STREAM/23290/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Sports HD",
+    "image": "http://meta.nordvpn.best/tnthd.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/11604/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Sports 2 HD",
+    "image": "http://meta.nordvpn.best/tnt2.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Sports 2",
+    "image": "http://meta.nordvpn.best/tnt2.png",
+    "url": "https://otakon.bemtv.cn/STREAM/386/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Sports 3 HD",
+    "image": "http://meta.nordvpn.best/tnt3.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Sports 3",
+    "image": "http://meta.nordvpn.best/tnt3.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TYC Sports HD",
+    "image": "http://meta.nordvpn.best/tyc_sports.png",
+    "url": "https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TYC Sports",
+    "image": "http://meta.nordvpn.best/tyc_sports.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/22877/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TYC Sports Int HD",
+    "image": "http://meta.nordvpn.best/tyc_sports.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TNT Sports HD (ARG)",
+    "image": "http://meta.nordvpn.best/tntsport.png",
+    "url": "https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TUDN HD - EEUU",
+    "image": "http://meta.nordvpn.best/tudn.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1735/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Deportes HD",
+    "image": "http://meta.nordvpn.best/fox_deportes_us.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/1736/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN Premium HD (Chile)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/409/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 7 HD",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8518/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 6 HD",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/11464/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Sports Premium HD (Mexico)",
+    "image": "http://meta.nordvpn.best/fox-sports.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Sports HD (Mexico)",
+    "image": "http://meta.nordvpn.best/fox_sports_global.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/22883/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Sports 2 HD (Mexico)",
+    "image": "http://meta.nordvpn.best/fox_sports_2_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22890/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Sports 3 HD (Mexico)",
+    "image": "http://meta.nordvpn.best/fox_sports_3_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 5 HD BR",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8326/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN Premium HD (ARG)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN MX",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/23624/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fox Sports 2 HD (ARG)",
+    "image": "http://meta.nordvpn.best/fox_sports_2_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN HD (Norte)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/711/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN HD (Sur)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/10923/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN HD (ARG)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/474/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 2 HD (ARG)",
+    "image": "http://meta.nordvpn.best/espn_dos_mx.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22612/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 2 MX",
+    "image": "http://meta.nordvpn.best/espn_dos_mx.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/23625/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 2 HD (Colombia)",
+    "image": "http://meta.nordvpn.best/espn_dos_mx.png",
+    "url": "https://otakon.bemtv.cn/STREAM/13020/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 2 HD (Norte)",
+    "image": "http://meta.nordvpn.best/espn_dos_mx.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/588/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 2 HD (Sur)",
+    "image": "http://meta.nordvpn.best/espn_dos_mx.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/11605/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 3 MX",
+    "image": "http://meta.nordvpn.best/espn_3_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/23626/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 3 HD (ARG)",
+    "image": "http://meta.nordvpn.best/espn_3_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/22651/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 3 HD (Norte)",
+    "image": "http://meta.nordvpn.best/espn_3_lam.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/708/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 3 HD (Sur)",
+    "image": "http://meta.nordvpn.best/espn_3_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/11468/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 4 HD (Norte)",
+    "image": "http://meta.nordvpn.best/espn4.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/466/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 5 HD (Sur)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/22872/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN Deportes HD",
+    "image": "http://meta.nordvpn.best/espn_deportes.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/732/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 5 HD (Norte)",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://otakon.bemtv.cn/STREAM/11608/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 1 HD BR",
+    "image": "http://meta.nordvpn.best/espn_br.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8322/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 2 HD BR",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8324/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 3 HD BR",
+    "image": "http://meta.nordvpn.best/espn_3_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/22838/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 4 HD BR",
+    "image": "http://meta.nordvpn.best/espn4.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8328/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "ESPN 6 HD BR",
+    "image": "http://meta.nordvpn.best/espn_lam.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8320/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "NBA TV HD",
+    "image": "http://meta.nordvpn.best/nba_tv_us.png",
+    "url": "https://otakon.bemtv.cn/STREAM/9083/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Ecuador CDF HD",
+    "image": "http://meta.nordvpn.best/ecuadorcdf.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8122/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Band Sports HD",
+    "image": "http://meta.nordvpn.best/band_sports.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8318/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Sport TV HD",
+    "image": "http://meta.nordvpn.best/sportv_br.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Sport TV 2 HD",
+    "image": "http://meta.nordvpn.best/sportv2_br.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8314/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Sport TV 3 HD",
+    "image": "http://meta.nordvpn.best/sportv3_br.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8312/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere Clubes HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://otakon.bemtv.cn/STREAM/8307/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere 2 HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8306/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere 3 HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8304/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere 4 HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8302/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere 5 HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8300/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere 6 HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8298/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Premiere 7 HD",
+    "image": "http://meta.nordvpn.best/premiere_futebol_clube.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8297/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Canal 4 - UY",
+    "image": "http://logo.com/logo.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/23443/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Canal 10 - UY",
+    "image": "http://logo.com/logo.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/23444/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "La Tele - UY",
+    "image": "http://logo.com/logo.png",
+    "url": "https://bigboss.bemtv.cn/STREAM/23445/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Combate HD",
+    "image": "http://meta.nordvpn.best/combate_tv_br.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8309/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Fish TV HD",
+    "image": "http://meta.nordvpn.best/fish_tv_br.png",
+    "url": "https://metalgear.bemtv.cn/STREAM/8364/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "MLB Internacional HD",
+    "image": "http://meta.nordvpn.best/mlb_network.png",
+    "url": "https://otakon.bemtv.cn/STREAM/19190/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
   }
+
 
 
 
