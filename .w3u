@@ -574,7 +574,7 @@
           "isHost": true
         },
  {
-          "name": "ESPN Argentina | AR 🇦🇷",
+          "name": "ESPN Argentina Premium | AR 🇦🇷",
           "info": "[sky 2]",
           "online": true,
           "image": "https://i.imgur.com/MFhpD4D.png",
@@ -582,6 +582,17 @@
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
           "isHost": true
         },
+{
+          "name": "ESPN Argentina premium| AR 🇦🇷",
+          "info": "[La14HD]",
+          "online": true,
+          "image": "https://i.imgur.com/MFhpD4D.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+          "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+          "isHost": true
+        },
+
+
         {
           "name": "ESPN Argentina | AR 🇦🇷",
           "info": "[Laceaccept]",
