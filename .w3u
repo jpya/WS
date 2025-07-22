@@ -574,6 +574,15 @@
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
           "isHost": true
         },
+ {
+          "name": "ESPN Argentina | AR 🇦🇷",
+          "info": "[sky 2]",
+          "online": true,
+          "image": "https://i.imgur.com/MFhpD4D.png",
+          "url": "https://skyplustvhd.com/sky2.php?stream=espnpremium",
+          "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+          "isHost": true
+        },
         {
           "name": "ESPN Argentina | AR 🇦🇷",
           "info": "[Laceaccept]",
