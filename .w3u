@@ -540,11 +540,10 @@
         },
         {
           "name": "ESPN Argentina 1080 | AR 🇦🇷",
-          "info": "[Jaque]",
+          "info": "[186]",
           "online": true,
-          "image": "https://i.imgur.com/MFhpD4D.png",
-          "referer": "https://alldownplay.xyz",
-          "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+          "image": "https://i.imgur.com/MFhpD4D.png"  
+          "url": "http://186.125.218.199:13000/play/a078/index.m3u8",
           "isHost": false
         },
         {
