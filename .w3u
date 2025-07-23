@@ -686,7 +686,7 @@
           "online": true,
           "image": "https://i.imgur.com/y3VGGV0.png",
           "url": "http://190.60.37.118:4000/play/a02y",
-          "userAgent": ""
+         
         },
         {
           "name": "ESPN 3 | AR 🇦🇷",
@@ -809,9 +809,8 @@
           "image": "https://i.imgur.com/ItEH0oC.png",
           "url": "https://skyplustvhd.com/sky2.php?stream=tntsports",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
+   }
       ]
-
     }
   ]
 }
